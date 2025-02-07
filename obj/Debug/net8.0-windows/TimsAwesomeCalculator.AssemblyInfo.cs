@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimsAwesomeCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54a72ccf27083419913379ce2d6759afa094acf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimsAwesomeCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimsAwesomeCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
