@@ -1,0 +1,16 @@
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.TimsAwesomeCalculator.resources
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.csproj.GenerateResource.cache
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.AssemblyInfoInputs.cache
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.AssemblyInfo.cs
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.exe
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.deps.json
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.runtimeconfig.json
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.dll
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.pdb
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.dll
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\refint\TimsAwesomeCalculator.dll
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.pdb
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.genruntimeconfig.cache
+C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\ref\TimsAwesomeCalculator.dll
