@@ -14,3 +14,20 @@ C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\D
 C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.pdb
 C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.genruntimeconfig.cache
 C:\Users\30104109\source\repos\TimsAwesomeCalculator\TimsAwesomeCalculator\obj\Debug\net8.0-windows\ref\TimsAwesomeCalculator.dll
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.exe
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.deps.json
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.runtimeconfig.json
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.dll
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\bin\Debug\net8.0-windows\TimsAwesomeCalculator.pdb
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.TimsAwesomeCalculator.resources
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.csproj.GenerateResource.cache
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.AssemblyInfoInputs.cache
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.AssemblyInfo.cs
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.sourcelink.json
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.dll
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\refint\TimsAwesomeCalculator.dll
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.pdb
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\TimsAwesomeCalculator.genruntimeconfig.cache
+C:\Users\timlo\Documents\GitHub\Blue Springs Hotel\TimsAwesomeCalculator\obj\Debug\net8.0-windows\ref\TimsAwesomeCalculator.dll

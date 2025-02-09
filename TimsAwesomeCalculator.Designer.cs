@@ -53,16 +53,16 @@
             // CalculatorTextBox
             // 
             CalculatorTextBox.Font = new Font("Segoe UI", 24F);
-            CalculatorTextBox.Location = new Point(172, 26);
+            CalculatorTextBox.Location = new Point(21, 78);
             CalculatorTextBox.Name = "CalculatorTextBox";
-            CalculatorTextBox.Size = new Size(118, 50);
+            CalculatorTextBox.Size = new Size(274, 50);
             CalculatorTextBox.TabIndex = 0;
             CalculatorTextBox.TextAlign = HorizontalAlignment.Right;
             // 
             // Button7
             // 
             Button7.Font = new Font("Segoe UI", 18F);
-            Button7.Location = new Point(80, 146);
+            Button7.Location = new Point(71, 202);
             Button7.Name = "Button7";
             Button7.Size = new Size(40, 42);
             Button7.TabIndex = 1;
@@ -73,7 +73,7 @@
             // Button8
             // 
             Button8.Font = new Font("Segoe UI", 18F);
-            Button8.Location = new Point(126, 146);
+            Button8.Location = new Point(117, 202);
             Button8.Name = "Button8";
             Button8.Size = new Size(40, 42);
             Button8.TabIndex = 2;
@@ -84,7 +84,7 @@
             // Button9
             // 
             Button9.Font = new Font("Segoe UI", 18F);
-            Button9.Location = new Point(172, 146);
+            Button9.Location = new Point(163, 202);
             Button9.Name = "Button9";
             Button9.Size = new Size(40, 42);
             Button9.TabIndex = 3;
@@ -95,7 +95,7 @@
             // Button6
             // 
             Button6.Font = new Font("Segoe UI", 18F);
-            Button6.Location = new Point(172, 194);
+            Button6.Location = new Point(163, 250);
             Button6.Name = "Button6";
             Button6.Size = new Size(40, 42);
             Button6.TabIndex = 6;
@@ -106,7 +106,7 @@
             // Button5
             // 
             Button5.Font = new Font("Segoe UI", 18F);
-            Button5.Location = new Point(126, 194);
+            Button5.Location = new Point(117, 250);
             Button5.Name = "Button5";
             Button5.Size = new Size(40, 42);
             Button5.TabIndex = 5;
@@ -117,7 +117,7 @@
             // Button4
             // 
             Button4.Font = new Font("Segoe UI", 18F);
-            Button4.Location = new Point(80, 194);
+            Button4.Location = new Point(71, 250);
             Button4.Name = "Button4";
             Button4.Size = new Size(40, 42);
             Button4.TabIndex = 4;
@@ -128,7 +128,7 @@
             // Button3
             // 
             Button3.Font = new Font("Segoe UI", 18F);
-            Button3.Location = new Point(172, 242);
+            Button3.Location = new Point(163, 298);
             Button3.Name = "Button3";
             Button3.Size = new Size(40, 42);
             Button3.TabIndex = 9;
@@ -139,7 +139,7 @@
             // Button2
             // 
             Button2.Font = new Font("Segoe UI", 18F);
-            Button2.Location = new Point(126, 242);
+            Button2.Location = new Point(117, 298);
             Button2.Name = "Button2";
             Button2.Size = new Size(40, 42);
             Button2.TabIndex = 8;
@@ -150,7 +150,7 @@
             // Button1
             // 
             Button1.Font = new Font("Segoe UI", 18F);
-            Button1.Location = new Point(80, 242);
+            Button1.Location = new Point(71, 298);
             Button1.Name = "Button1";
             Button1.Size = new Size(40, 42);
             Button1.TabIndex = 7;
@@ -161,7 +161,7 @@
             // Button0
             // 
             Button0.Font = new Font("Segoe UI", 18F);
-            Button0.Location = new Point(126, 290);
+            Button0.Location = new Point(117, 346);
             Button0.Name = "Button0";
             Button0.Size = new Size(40, 42);
             Button0.TabIndex = 10;
@@ -172,7 +172,7 @@
             // ButtonDecimal
             // 
             ButtonDecimal.Font = new Font("Segoe UI", 18F);
-            ButtonDecimal.Location = new Point(172, 290);
+            ButtonDecimal.Location = new Point(163, 346);
             ButtonDecimal.Name = "ButtonDecimal";
             ButtonDecimal.Size = new Size(40, 42);
             ButtonDecimal.TabIndex = 11;
@@ -184,40 +184,43 @@
             // 
             ButtonDivide.BackColor = Color.Coral;
             ButtonDivide.Font = new Font("Segoe UI", 18F);
-            ButtonDivide.Location = new Point(218, 98);
+            ButtonDivide.Location = new Point(209, 154);
             ButtonDivide.Name = "ButtonDivide";
             ButtonDivide.Size = new Size(40, 42);
             ButtonDivide.TabIndex = 12;
             ButtonDivide.Text = "/";
             ButtonDivide.UseVisualStyleBackColor = false;
+            ButtonDivide.Click += ButtonDivide_Click;
             // 
             // ButtonMultiply
             // 
             ButtonMultiply.BackColor = Color.Coral;
             ButtonMultiply.Font = new Font("Segoe UI", 18F);
-            ButtonMultiply.Location = new Point(218, 146);
+            ButtonMultiply.Location = new Point(209, 202);
             ButtonMultiply.Name = "ButtonMultiply";
             ButtonMultiply.Size = new Size(40, 42);
             ButtonMultiply.TabIndex = 13;
             ButtonMultiply.Text = "*";
             ButtonMultiply.UseVisualStyleBackColor = false;
+            ButtonMultiply.Click += ButtonMultiply_Click;
             // 
             // ButtonSubtract
             // 
             ButtonSubtract.BackColor = Color.Coral;
             ButtonSubtract.Font = new Font("Segoe UI", 18F);
-            ButtonSubtract.Location = new Point(218, 194);
+            ButtonSubtract.Location = new Point(209, 250);
             ButtonSubtract.Name = "ButtonSubtract";
             ButtonSubtract.Size = new Size(40, 42);
             ButtonSubtract.TabIndex = 14;
             ButtonSubtract.Text = "-";
             ButtonSubtract.UseVisualStyleBackColor = false;
+            ButtonSubtract.Click += ButtonSubtract_Click;
             // 
             // ButtonAdd
             // 
             ButtonAdd.BackColor = Color.Coral;
             ButtonAdd.Font = new Font("Segoe UI", 18F);
-            ButtonAdd.Location = new Point(218, 242);
+            ButtonAdd.Location = new Point(209, 298);
             ButtonAdd.Name = "ButtonAdd";
             ButtonAdd.Size = new Size(40, 42);
             ButtonAdd.TabIndex = 15;
@@ -229,7 +232,7 @@
             // 
             ButtonEquals.BackColor = Color.Coral;
             ButtonEquals.Font = new Font("Segoe UI", 18F);
-            ButtonEquals.Location = new Point(218, 290);
+            ButtonEquals.Location = new Point(209, 346);
             ButtonEquals.Name = "ButtonEquals";
             ButtonEquals.Size = new Size(40, 42);
             ButtonEquals.TabIndex = 16;
@@ -241,7 +244,7 @@
             // 
             ButtonClear.BackColor = Color.Coral;
             ButtonClear.Font = new Font("Segoe UI", 18F);
-            ButtonClear.Location = new Point(80, 98);
+            ButtonClear.Location = new Point(71, 154);
             ButtonClear.Name = "ButtonClear";
             ButtonClear.Size = new Size(52, 42);
             ButtonClear.TabIndex = 17;
@@ -253,10 +256,10 @@
             // 
             PreviousValueBox.BackColor = SystemColors.ScrollBar;
             PreviousValueBox.Font = new Font("Segoe UI", 24F);
-            PreviousValueBox.ForeColor = SystemColors.Window;
-            PreviousValueBox.Location = new Point(24, 26);
+            PreviousValueBox.ForeColor = Color.FromArgb(64, 64, 64);
+            PreviousValueBox.Location = new Point(21, 22);
             PreviousValueBox.Name = "PreviousValueBox";
-            PreviousValueBox.Size = new Size(96, 50);
+            PreviousValueBox.Size = new Size(228, 50);
             PreviousValueBox.TabIndex = 18;
             PreviousValueBox.TextAlign = HorizontalAlignment.Right;
             // 
@@ -264,12 +267,12 @@
             // 
             OperatorTextBox.BackColor = SystemColors.ScrollBar;
             OperatorTextBox.Font = new Font("Segoe UI", 24F);
-            OperatorTextBox.ForeColor = Color.Coral;
-            OperatorTextBox.Location = new Point(126, 26);
+            OperatorTextBox.ForeColor = Color.Firebrick;
+            OperatorTextBox.Location = new Point(255, 22);
             OperatorTextBox.Name = "OperatorTextBox";
             OperatorTextBox.Size = new Size(40, 50);
             OperatorTextBox.TabIndex = 19;
-            OperatorTextBox.TextAlign = HorizontalAlignment.Right;
+            OperatorTextBox.TextAlign = HorizontalAlignment.Center;
             // 
             // TimsAwesomeCalculator
             // 
